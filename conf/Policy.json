@@ -1,0 +1,44 @@
+{
+    "policy": [
+        {
+            "guid": "5edcb9f3-82cf-4e1f-83cb-23e3358bd7b6",
+            "policyDetail": {
+                "folderId": "c9e42dcc73f43745446cdecd51c19836",
+                "guid": "5edcb9f3-82cf-4e1f-83cb-23e3358bd7b6",
+                "id": "83876e2764ad2fbfbc917e28007d013e",
+                "name": "mySoloPolicy",
+                "policyType": "Include",
+                "properties": {
+                    "property": [
+                        {
+                            "key": "hasRouting",
+                            "booleanValue": "false"
+                        },
+                        {
+                            "key": "revision",
+                            "longValue": "1"
+                        },
+                        {
+                            "key": "soap",
+                            "booleanValue": "false"
+                        }
+                    ]
+                }
+            },
+            "resources": {
+                "resourceSet": [
+                    {
+                        "tag": "policy",
+                        "resource": [
+                            {
+                                "type": "policy",
+                                "content": "test\/mySoloPolicy.xml"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "id": "83876e2764ad2fbfbc917e28007d013e"
+        }
+    ]
+}
