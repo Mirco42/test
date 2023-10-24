@@ -3,8 +3,17 @@
       <l7:Folder id="0000000000000000ffffffffffffec76" version="0">
         <l7:Name>Root Node</l7:Name>
       </l7:Folder>
+      <l7:Folder folderId="0000000000000000ffffffffffffec76" id="f6946126d11721bd0d485fdcbbb157e4" version="0">
+        <l7:Name>pp</l7:Name>
+      </l7:Folder>
       <l7:Folder folderId="0000000000000000ffffffffffffec76" id="c9e42dcc73f43745446cdecd51c19836" version="0">
         <l7:Name>test</l7:Name>
+      </l7:Folder>
+      <l7:Folder folderId="f6946126d11721bd0d485fdcbbb157e4" id="f6946126d11721bd0d485fdcbbb1563c" version="1">
+        <l7:Name>policyPack1</l7:Name>
+      </l7:Folder>
+      <l7:Folder folderId="f6946126d11721bd0d485fdcbbb157e4" id="f6946126d11721bd0d485fdcbbb156ac" version="1">
+        <l7:Name>policyPack2</l7:Name>
       </l7:Folder>
     </l7:Folders>
   </l7:Export>
