@@ -121,12 +121,12 @@
             "id": "83876e2764ad2fbfbc917e28007d013e"
         },
         {
-            "guid": "6bf4434f-550e-4600-96fe-15d36ec2e8a3",
+            "guid": "80ec82cd-3fb4-4a30-b098-5c17339a8681",
             "policyDetail": {
                 "folderId": "f6946126d11721bd0d485fdcbbb156ac",
-                "guid": "6bf4434f-550e-4600-96fe-15d36ec2e8a3",
-                "id": "f6946126d11721bd0d485fdcbbb156ee",
-                "name": "abc3",
+                "guid": "80ec82cd-3fb4-4a30-b098-5c17339a8681",
+                "id": "f6946126d11721bd0d485fdcbbb15705",
+                "name": "abc4",
                 "policyType": "Include",
                 "properties": {
                     "property": [
@@ -152,13 +152,13 @@
                         "resource": [
                             {
                                 "type": "policy",
-                                "content": "abc3.xml"
+                                "content": "abc4.xml"
                             }
                         ]
                     }
                 ]
             },
-            "id": "f6946126d11721bd0d485fdcbbb156ee"
+            "id": "f6946126d11721bd0d485fdcbbb15705"
         }
     ]
 }
