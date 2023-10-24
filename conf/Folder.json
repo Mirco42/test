@@ -1,19 +1,9 @@
 {
     "folder": [
         {
-            "folderId": "0000000000000000ffffffffffffec76",
-            "name": "pp",
-            "id": "f6946126d11721bd0d485fdcbbb157e4"
-        },
-        {
             "folderId": "f6946126d11721bd0d485fdcbbb157e4",
             "name": "policyPack1",
             "id": "f6946126d11721bd0d485fdcbbb1563c"
-        },
-        {
-            "folderId": "f6946126d11721bd0d485fdcbbb157e4",
-            "name": "policyPack2",
-            "id": "f6946126d11721bd0d485fdcbbb156ac"
         },
         {
             "folderId": "0000000000000000ffffffffffffec76",
